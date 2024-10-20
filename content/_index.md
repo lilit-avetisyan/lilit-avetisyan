@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Fellow
+          company: ICRL Lab, University of Michigan
+          company_url: 'https://icrl.engin.umich.edu/'
+          company_logo: um-logo
+          location: Ann Arbor, MI
+          date_start: '2024-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,16 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Instructor
+          company: University of Michigan-Dearborn
+          company_url: 'https://umdearborn.edu/'
+          company_logo: umd-logo
+          location: Dearborn, MI
+          date_start: '2023-08-15'
+          date_end: '2024-06-28'
+          description: |
+            * Taught C# Programming for Engineers | IMSE 255, CIS 205 
+            * Instructed in Human-Centered Engineering Design | HCED 510
     design:
       columns: '2'
   - block: accomplishments
@@ -98,32 +100,32 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/?practice-assessment-type=certification
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-02-10'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          icon: microsoft
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: Azure Data Scientist Associate
+          url: 'https://learn.microsoft.com/api/credentials/share/en-us/LilitAvetisyan-4102/235356BFE6BB1B09?sharingId=F29A20E74A2312CC'
+        - certificate_url: https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2024-09-03'
+          description: 
+          icon: microsoft
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: Azure Data Engineer Associate
+          url: https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/8ba261630d164bf6
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2024-05-03'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: microsoft
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: 'Azure Developer Associate'
           url: ''
     design:
       columns: '2'
