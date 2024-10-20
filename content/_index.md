@@ -118,7 +118,7 @@ sections:
           organization_url: https://www.microsoft.com
           title: Azure Data Engineer Associate
           url: https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/8ba261630d164bf6
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification
           date_end: ''
           date_start: '2024-05-03'
           description: ''
@@ -126,7 +126,7 @@ sections:
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: 'Azure Developer Associate'
-          url: ''
+          url: 'https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/certification/azure-developer?tab=credentials-tab'
     design:
       columns: '2'
   - block: collection
