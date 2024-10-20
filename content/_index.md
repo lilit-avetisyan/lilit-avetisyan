@@ -127,6 +127,15 @@ sections:
           organization_url: https://www.microsoft.com
           title: 'Azure Developer Associate'
           url: 'https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/certification/azure-developer?tab=credentials-tab'
+        - certificate_url: https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/
+          date_end: ''
+          date_start: '2024-08-07'
+          description: ''
+          icon: microsoft
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: 'DevOps Engineer Expert'
+          url: 'https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/certification/devops-engineer?tab=credentials-tab
     design:
       columns: '2'
   # - block: collection
