@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Lilit
+title: '' #Lilit
 
 # Name pronunciation (optional)
-name_pronunciation: Lilit Avetisyan
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Lilit
@@ -25,13 +25,13 @@ organizations:
     url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-machine interactions, behavioral computing and modeling.
 
 # Interests to show in About widget
 interests:
-  - Human Factors
-  - Large Language Models
-  - Information Retrieval
+  - Human-machine Interaction (HMI) 
+  - Natural Language Processing (NLP)
+  - Bahavioral Modeling
 
 # Education to show in About widget
 education:
@@ -53,17 +53,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -103,7 +103,7 @@ social:
     link: https://github.com/lilit-avetisyan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/lilit-avetisian
+    link: https://www.linkedin.com/lilit-avetisyan
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -114,8 +114,14 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+As a Research Scientist, I specialize in the field of human-centered engineering design, blending insights from information science and human factors. My work focuses on understanding, predicting, and influencing how people interact with technology. I'm particularly interested in exploring the complex dynamics of human-computer interactions and using that knowledge to design products that are both effective and engaging.
 
-Lilit Avetisyan is a Research Scientist of Human-Centered Engineering Design at the Interaction & Collaboration Research Lab (ICRL) Lab. Her research interests include autonomous vehicles, behavioral computing and natural language processing. 
+I'm passionate about conducting experimental studies and running simulations to gather meaningful data about user behavior. I'm skilled in a range of statistical methods, from descriptive analyses to inferential techniques, and have experience developing computational models of human behavior.
+
+Collaboration is an essential part of my work, and I thrive in multidisciplinary environments. I enjoy translating research findings into practical applications, working closely with designers, engineers, and product managers to ensure that our products are user-friendly and meet the needs of our users.
+
+<!-- My overarching goal is to bridge the gap between academic research and real-world impact. I believe that a deep understanding of human behavior is crucial for designing technology that improves our lives and makes our interactions with technology more seamless and enjoyable." -->
+<!-- Lilit Avetisyan is a Research Scientist of Human-Centered Engineering Design at the Interaction & Collaboration Research Lab (ICRL) Lab. Her research interests include autonomous vehicles, behavioral computing and natural language processing.  -->
 
 <!-- She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
