@@ -65,7 +65,7 @@ sections:
         - title: Research Fellow
           company: ICRL Lab, University of Michigan
           company_url: 'https://icrl.engin.umich.edu/'
-          company_logo: um-logo
+          company_logo: 
           location: Ann Arbor, MI
           date_start: '2024-09-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Instructor
           company: University of Michigan-Dearborn
           company_url: 'https://umdearborn.edu/'
-          company_logo: umd-logo
+          company_logo: 
           location: Dearborn, MI
           date_start: '2023-08-15'
           date_end: '2024-06-28'
@@ -104,7 +104,7 @@ sections:
           date_end: ''
           date_start: '2024-02-10'
           description: ''
-          icon: microsoft
+          icon: custom/microsoft
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: Azure Data Scientist Associate
@@ -113,7 +113,7 @@ sections:
           date_end: ''
           date_start: '2024-09-03'
           description: 
-          icon: microsoft
+          icon: custom/microsoft
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: Azure Data Engineer Associate
@@ -122,11 +122,11 @@ sections:
           date_end: ''
           date_start: '2024-05-03'
           description: ''
-          icon: microsoft
+          icon: custom/microsoft
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: 'Azure Developer Associate'
-          url: https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/certification/azure-developer?tab=credentials-tab
+          url: https://learn.microsoft.com/en-us/users/lilitavetisyan-4102/credentials/certification/azure-developer?tab=credentials-tab                                                
         - certificate_url: https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/
           date_end: ''
           date_start: '2024-08-07'
