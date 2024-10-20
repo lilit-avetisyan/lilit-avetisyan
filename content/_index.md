@@ -1,19 +1,19 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-10-20
 type: landing
 
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Lilit Avetisyan
       image:
-        filename: hero-academic.png
+        filename: lilita_24.jpg
       cta:
         label: '**Get Started**'
-        url: https://hugoblox.com/templates/
+        # url: https://hugoblox.com/templates/
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
