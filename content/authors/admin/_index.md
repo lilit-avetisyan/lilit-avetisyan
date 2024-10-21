@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Quantitative Researcher | Human Factors Engineer
+role: Human Computer Interaction Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -88,7 +88,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:lilitavetisian@outlook.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
