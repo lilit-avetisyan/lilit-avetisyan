@@ -93,8 +93,9 @@ sections:
           date_start: '2023-08-15'
           date_end: '2024-06-28'
           description: |
-            *  
-            * 
+            * Analysing
+            * Modelling
+            * Deploying
         - title: Senior Data Engineer
           company: Dom-Daniel
           company_url: 'https://dom-daniel.com/'
@@ -103,8 +104,8 @@ sections:
           date_start: '2023-08-15'
           date_end: '2024-06-28'
           description: |
-            *  
-            * 
+            * Modelling
+            * Deploying
     design:
       columns: '2'
   - block: accomplishments
