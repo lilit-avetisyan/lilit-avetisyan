@@ -85,12 +85,32 @@ sections:
           description: |
             * Taught C# Programming for Engineers | IMSE 255, CIS 205 
             * Instructed in Human-Centered Engineering Design | HCED 510
+        - title: Research Assitant
+          company: University of Michigan-Dearborn
+          company_url: 'https://umdearborn.edu/'
+          company_logo: 
+          location: Dearborn, MI
+          date_start: '2023-08-15'
+          date_end: '2024-06-28'
+          description: |
+            *  
+            * 
+        - title: Senior Data Engineer
+          company: Dom-Daniel
+          company_url: 'https://dom-daniel.com/'
+          company_logo: 
+          location: Dearborn, MI
+          date_start: '2023-08-15'
+          date_end: '2024-06-28'
+          description: |
+            *  
+            * 
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Certificates'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -131,7 +151,7 @@ sections:
           date_end: ''
           date_start: '2024-08-07'
           description: ''
-          icon: microsoft
+          icon: custom/microsoft
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: 'DevOps Engineer Expert'
@@ -192,28 +212,28 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -246,10 +266,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
+        - Interested in exploring a research project together?
+        - Looking for a speaker on human-centered design or human-computer interaction?
+        - Need insights on user behavior or product design?
+
         Let's connect!
-          - Research Collaborations: Interested in exploring a research project together?
-          - Speaking Engagements: Looking for a speaker on human-centered design or human-computer interaction?
-          - Consulting: Need insights on user behavior or product design?
       # Contact (add or remove contact options as necessary)
       email: lilita@umich.edu, lilitavetisian@outlook.com
       # phone: 888 888 88 88
