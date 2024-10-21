@@ -88,7 +88,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lilitavetisian@outlook.com'
+    link: mailto:lilitavetisian@outlook.com
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
