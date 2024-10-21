@@ -29,7 +29,7 @@ bio: My research interests include human-machine interactions, behavioral comput
 
 # Interests to show in About widget
 interests:
-  - Human-machine Interaction (HMI) 
+  - Human-Computer Interaction (HCI) 
   - Natural Language Processing (NLP)
   - Bahavioral Modeling
 
@@ -56,6 +56,21 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
+      - name: C#
+        description: ''
+        percent: 100
+        icon: custom/c-sharp
+        icon_pack: fab
+      - name: R
+        description: ''
+        percent: 100
+        icon: cusom/r-lang
+        icon_pack: fab
+      - name: MATLAB
+        description: ''
+        percent: 100
+        icon: cusom/matlab
+        icon_pack: fab
       - name: Data Science
         description: ''
         percent: 80
@@ -63,9 +78,40 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 80
+        percent: 85
         icon: database
         icon_pack: fas
+  - name: Tools
+    items:
+      - name: SQL
+        description: ''
+        percent: 85
+        icon: 
+        icon_pack: fas
+  - name: Simulations
+    items:
+      - name: RTI
+        description: ''
+        percent: 100
+        icon: 
+        icon_pack:
+      - name: PreScan
+        description: ''
+        percent: 90
+        icon: 
+        icon_pack: 
+      - name: CarMaker
+        description: ''
+        percent: 80
+        icon: 
+        icon_pack: 
+      - name: Unity VR
+        description: ''
+        percent: 90
+        icon: custom/unity
+        icon_pack: 
+      
+  - name: Technical 
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'

@@ -80,18 +80,18 @@ sections:
           company_url: 'https://umdearborn.edu/'
           company_logo: 
           location: Dearborn, MI
-          date_start: '2023-08-15'
+          date_start: '2023-08-28'
           date_end: '2024-06-28'
           description: |
             * Taught C# Programming for Engineers | IMSE 255, CIS 205 
             * Instructed in Human-Centered Engineering Design | HCED 510
-        - title: Research Assitant
+        - title: Research Assistant
           company: University of Michigan-Dearborn
           company_url: 'https://umdearborn.edu/'
           company_logo: 
           location: Dearborn, MI
-          date_start: '2023-08-15'
-          date_end: '2024-06-28'
+          date_start: '2020-09-01'
+          date_end: '2023-08-27'
           description: |
             Responsibilities include:
             * Design and conduct experiments to investigate the relationship between emotions, trust, and automated vehicle performance
@@ -225,7 +225,7 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  
+
   # - block: markdown
   #   content:
   #     title: Gallery
