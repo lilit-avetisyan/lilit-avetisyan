@@ -72,9 +72,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Leading research on enhancing driver-autonomous vehicle interactions through Large Language Model (LLM) generated explanations, focusing on improving trust and user experience
+              * Investigating user behavior patterns in traffic information sharing, analyzing motivational factors for driver participation in crowdsourced navigation platforms such as Waze
+ 
         - title: Instructor
           company: University of Michigan-Dearborn
           company_url: 'https://umdearborn.edu/'
@@ -93,9 +93,18 @@ sections:
           date_start: '2023-08-15'
           date_end: '2024-06-28'
           description: |
-            * Analysing
-            * Modelling
-            * Deploying
+            Responsibilities include:
+            * Design and conduct experiments to investigate the relationship between emotions, trust, and automated vehicle performance
+            * Apply natural language processing techniques, including topic modeling and sentiment analysis, to interpret public attitudes
+            * Analyze trends and challenges in micro-mobility across the US and EU, with a focus on safety concerns
+            * Develop high-fidelity driving environments using CarMaker, Unity VR, and SimCreator for behavioral studies
+            * Create machine learning models to predict drivers' state (e.g. situation awareness and trust) in real-time
+            * Develop and apply machine learning models for Named Entity Recognition in automated vehicle safety analysis
+            * Utilize Generative AI models (e.g., GPT-3.5 Turbo, GPT-4) for automated document labeling and analysis
+            * Contribute to projects focused on automated vehicle safety, human-automation interaction, and micro-mobility trends
+            * Write reports and academic articles to document research findings and methodologies
+            * Present research results at academic and industry conferences
+
         - title: Senior Data Engineer
           company: Dom-Daniel
           company_url: 'https://dom-daniel.com/'
@@ -104,8 +113,11 @@ sections:
           date_start: '2023-08-15'
           date_end: '2024-06-28'
           description: |
-            * Modelling
-            * Deploying
+            * Design and develop distributed, near real-time event management systems using Azure Cloud services
+            * Create data-driven analytics platforms based on customer's data nature
+            * Research and model multi-layered security architectures for distributed systems
+            * Plan and implement storage services for efficient data management
+            * Organiz and deliver regular workshops and training sessions on trends and best practices in cloud technologies and data storage systems
     design:
       columns: '2'
   - block: accomplishments
