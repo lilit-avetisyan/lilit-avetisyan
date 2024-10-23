@@ -59,23 +59,19 @@ skills:
       - name: C#
         description: ''
         percent: 100
-        icon: custom/c-sharp
-        
+        icon: custom/c-sharp      
       - name: R
         description: ''
         percent: 100
-        icon: cusom/r-lang
-        
+        icon: cusom/r-lang    
       - name: MATLAB
         description: ''
         percent: 100
-        icon: cusom/matlab
-        
+        icon: cusom/matlab  
       - name: SQL
         description: ''
         percent: 85
-        icon: database
-        
+        icon: database      
   - name: Research Methods
     color: '#ebac04'
     items:
@@ -111,8 +107,7 @@ skills:
         percent: 80
       - name: Interviews
         description: ''
-        percent: 70
-      
+        percent: 70     
   - name: Tools
     color: '#abac04'
     items:
@@ -183,8 +178,7 @@ skills:
         description: ''
         percent: 90
         icon: custom/unity
-        icon_pack: 
-      
+        icon_pack:   
   - name: Technical
     color: '#eeac02'
     items:
