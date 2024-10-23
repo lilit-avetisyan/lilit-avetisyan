@@ -72,42 +72,6 @@ skills:
         description: ''
         percent: 85
         icon: database      
-  - name: Research Methods
-    color: '#ebac04'
-    items:
-      - name: Quantitative Data Analysis
-        description: ''
-        percent: 100
-      - name: Qualitative Data Analysis
-        description: ''
-        percent: 80
-      - name: Experimental Design
-        description: ''
-        percent: 100
-      - name: Survey Design & Analysis
-        description: ''
-        percent: 100
-      - name: Simulations
-        description: ''
-        percent: 80
-      - name: Physiological Data Analysis
-        description: ''
-        percent: 80
-      - name: Eye-tracking
-        description: ''
-        percent: 90
-      - name: 
-        description: ''
-        percent: 100
-      - name:  Concept Testing
-        description: ''
-        percent: 100
-      - name:  A/B Testing
-        description: ''
-        percent: 80
-      - name: Interviews
-        description: ''
-        percent: 70     
   - name: Tools
     color: '#abac04'
     items:
@@ -151,11 +115,39 @@ skills:
         percent: 100
         icon: 
         icon_pack: fas
-      - name: 
+  - name: Research Methods
+    color: '#ebeb04'
+    items:
+      - name: Quantitative Data Analysis
         description: ''
         percent: 100
-        icon: 
-        icon_pack: fas
+      - name: Qualitative Data Analysis
+        description: ''
+        percent: 80
+      - name: Experimental Design
+        description: ''
+        percent: 100
+      - name: Survey Design & Analysis
+        description: ''
+        percent: 100
+      - name: Simulations
+        description: ''
+        percent: 80
+      - name: Physiological Data Analysis
+        description: ''
+        percent: 80
+      - name: Eye-tracking
+        description: ''
+        percent: 90
+      - name:  Concept Testing
+        description: ''
+        percent: 100
+      - name:  A/B Testing
+        description: ''
+        percent: 80
+      - name: Interviews
+        description: ''
+        percent: 70     
   - name: Simulations
     color: '#eeac04'
     items:
