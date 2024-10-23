@@ -49,7 +49,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
@@ -60,35 +60,109 @@ skills:
         description: ''
         percent: 100
         icon: custom/c-sharp
-        icon_pack: fab
+        
       - name: R
         description: ''
         percent: 100
         icon: cusom/r-lang
-        icon_pack: fab
+        
       - name: MATLAB
         description: ''
         percent: 100
         icon: cusom/matlab
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
+        
       - name: SQL
         description: ''
         percent: 85
         icon: database
-        icon_pack: fas
-  - name: Tools
+        
+  - name: Research Methods
+    color: '#ebac04'
     items:
-      - name: SQL
+      - name: Quantitative Data Analysis
         description: ''
-        percent: 85
+        percent: 100
+      - name: Qualitative Data Analysis
+        description: ''
+        percent: 80
+      - name: Experimental Design
+        description: ''
+        percent: 100
+      - name: Survey Design & Analysis
+        description: ''
+        percent: 100
+      - name: Simulations
+        description: ''
+        percent: 80
+      - name: Physiological Data Analysis
+        description: ''
+        percent: 80
+      - name: Eye-tracking
+        description: ''
+        percent: 90
+      - name: 
+        description: ''
+        percent: 100
+      - name:  Concept Testing
+        description: ''
+        percent: 100
+      - name:  A/B Testing
+        description: ''
+        percent: 80
+      - name: Interviews
+        description: ''
+        percent: 70
+      
+  - name: Tools
+    color: '#abac04'
+    items:
+      - name: SPSS
+        description: ''
+        percent: 70
+        icon: 
+        icon_pack: fas
+      - name: Minitab
+        description: ''
+        percent: 80
+        icon: 
+        icon_pack: fas
+      - name: iMotions
+        description: ''
+        percent: 100
+        icon: 
+        icon_pack: fas
+      - name: Pupil Labs
+        description: ''
+        percent: 90
+        icon: 
+        icon_pack: fas
+      - name: Qulatrics
+        description: ''
+        percent: 80
+        icon: 
+        icon_pack: fas
+      - name: Azure Cloud
+        description: ''
+        percent: 100
+        icon: 
+        icon_pack: fas
+      - name: Power BI
+        description: ''
+        percent: 70
+        icon: 
+        icon_pack: fas
+      - name: Git
+        description: ''
+        percent: 100
+        icon: 
+        icon_pack: fas
+      - name: 
+        description: ''
+        percent: 100
         icon: 
         icon_pack: fas
   - name: Simulations
+    color: '#eeac04'
     items:
       - name: RTI
         description: ''
@@ -111,7 +185,31 @@ skills:
         icon: custom/unity
         icon_pack: 
       
-  - name: Technical 
+  - name: Technical
+    color: '#eeac02'
+    items:
+      - name: Statistical Modeling
+        description: ''
+        percent: 100
+      - name:  Natural Language Processing
+        description: ''
+        percent: 80
+      - name: Data Engineering
+        description: ''
+        percent: 90
+      - name: Data Science
+        description: ''
+        percent: 80
+      - name: Design of Experiments
+        description: ''
+        percent: 100
+      - name: Generative AI
+        description: ''
+        percent: 80
+      - name: Machine Learning
+        description: ''
+        percent: 100
+
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
