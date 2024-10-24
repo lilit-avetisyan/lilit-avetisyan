@@ -59,15 +59,18 @@ skills:
       - name: C#
         description: ''
         percent: 100
-        icon: custom/c-sharp      
+        icon: c#
+        icon-pack: devicon 
       - name: R
         description: ''
-        percent: 100
-        icon: cusom/r-lang    
+        percent: 70
+        icon: r
+        icon-pack: devicon    
       - name: MATLAB
         description: ''
-        percent: 100
-        icon: cusom/matlab  
+        percent: 75
+        icon: matlab
+        icon-pack: devicon
       - name: SQL
         description: ''
         percent: 85
